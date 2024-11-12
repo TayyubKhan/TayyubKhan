@@ -1,7 +1,5 @@
 # Tayyub Khan
 
-<img src="https://github.com/tayyubkhan.png" width="120" style="border-radius:50%;border:3px solid #111;margin-bottom:15px;"/>
-
 **Flutter Developer | 3+ Years of Experience**
 
 Crafting seamless mobile experiences with a modern touch.
