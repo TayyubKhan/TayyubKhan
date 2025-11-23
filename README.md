@@ -19,7 +19,7 @@ I am a **Flutter Developer** with over three years of experience, specializing i
 Constantly exploring new frameworks and trends to create applications that resonate with today’s tech-savvy users.
 
 ## 📬 Connect
-- 💻 **Website**: [tayyubkhan](https://tayyub.atifiy.com/)
+- 🌐 **Website**: [tayyubkhan](https://tayyub.atifiy.com/)
 - 📧 **Email**: [tayyubshafiquek@gmail.com](mailto:tayyubshafiquek@gmail.com)
 - 🌐 **LinkedIn**: [Tayyub Khan on LinkedIn](https://www.linkedin.com/in/tayyub-khan/)
 - 💻 **GitHub**: [tayyubkhan](https://github.com/tayyubkhan)
